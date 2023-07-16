@@ -1,3 +1,3 @@
 # cloud-server
 
-## ![AWS-DEPLOYED](https://ibb.co/q5whxTy)
+## ![AWS-DEPLOYED](./AWS-ALA.PNG)
